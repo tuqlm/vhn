@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GBALocalizerVN" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent_cyan</item>
+        <item name="colorOnPrimary">#04131E</item>
+        <item name="colorSecondary">@color/accent_emerald</item>
+        <item name="colorOnSecondary">#032218</item>
+        <item name="android:windowBackground">@color/bg_canvas</item>
+        <item name="android:statusBarColor">@color/bg_canvas</item>
+        <item name="android:navigationBarColor">@color/bg_surface</item>
+    </style>
+</resources>
